@@ -1,6 +1,7 @@
-- 👋 Hi, I’m #47
-- 👀 I’m interested in mystery
-- 🌱 I’m currently learning lalalalala..
+# hey I’m Sarang Chisim, you can call me Sarang, currenty pursuing B.Sc. in Computer Science & Engineering.
+## I am glad that your here. Welcome to my profile. 
+
+- 👀 interested in mystery
 - 💞️ I’m looking to collaborate on any possible error..
 - 📫 call POLICE..
 - let's have fun...........
