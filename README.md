@@ -10,7 +10,7 @@ About Me
 - 🕵️‍♂️ Experienced in vulnerability testing (SQL Injection, XSS, LFI, XSRF).
 - 📜 Aspiring to contribute to cutting-edge research and create innovative solutions.
 
-About Me
+🛠️ What I Do
 
 - Hunting for vulnerabilities to make the web a safer place.
 - Learning and growing in the ever-evolving field of cybersecurity.
